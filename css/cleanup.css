@@ -3,10 +3,11 @@
   display: none;
 }
 
-#wall .wall #tag-2 {
+#wall .wall #tag-3 {
   display: none;
 }
 
-  #wall #tag-3.slick div.parent {
+
+#wall .parent #tag-4 {
   display: none;
 }
