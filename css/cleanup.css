@@ -2,6 +2,11 @@
 #wall .tag-1 {
   display: none;
 }
+
 #wall .wall #tag-2 {
+  display: none;
+}
+
+.tag-3 .slick {
   display: none;
 }
