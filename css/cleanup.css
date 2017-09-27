@@ -1,4 +1,4 @@
-/* write your override styles here */
+/* Each time you need to get more specific. Look for ways to add "points" by adding more specificity*/
 #wall .tag-1 {
   display: none;
 }
